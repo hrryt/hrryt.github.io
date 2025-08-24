@@ -35,11 +35,11 @@ within each bar segment.
 
 # gggradient
 
-![gggradient](https://github.com/hrryt/gggradient/raw/master/man/figures/README-unnamed-chunk-2-1.png)
+![gggradient](https://github.com/hrryt/gggradient/raw/master/man/figures/README-work.png)
 
-The goal of [gggradient](https://hrryt.github.io/gggradient) is to provide
-a flexible ggplot2 interface with `grid::linearGradient()` using familiar
-fill scale syntax.
+The goal of [gggradient](https://hrryt.github.io/gggradient) is to leverage
+the power of ggplot2 scale syntax to interface with the flexibility of
+`grid::linearGradient()` patterns.
 
 # scenesetr
 
