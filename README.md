@@ -1,11 +1,14 @@
 # Harry Thompson
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/hrryt)
-[![CRAN](https://img.shields.io/badge/CRAN-blue?logo=r)](https://cran.r-project.org/)
+![GitHub](https://img.shields.io/github/stars/hrryt)
 
 Hi, I'm Harry! Check out some of my R packages:
 
 # gglinedensity
+
+[![CRAN](https://www.r-pkg.org/badges/version/gglinedensity)](https://cran.r-project.org/package=gglinedensity)
+[![CRAN: Task View](https://img.shields.io/badge/CRAN-Task%20View-blue)](https://cran.r-project.org/web/views/TimeSeries.html)
+![GitHub](https://img.shields.io/github/stars/hrryt/gglinedensity)
 
 ![gglinedensity](https://raw.githubusercontent.com/hrryt/gglinedensity/refs/heads/main/man/figures/README-nyse.png)
 
@@ -18,6 +21,9 @@ identify anomalous extrema” ([Moritz and Fisher,
 
 # gghexsize
 
+[![CRAN](https://www.r-pkg.org/badges/version/gghexsize)](https://cran.r-project.org/package=gghexsize)
+![GitHub](https://img.shields.io/github/stars/hrryt/gghexsize)
+
 ![gghexsize](https://raw.githubusercontent.com/hrryt/gghexsize/master/man/figures/README-unnamed-chunk-3-1.png)
 
 The goal of [gghexsize](https://hrryt.github.io/gghexsize) is mainly
@@ -25,6 +31,9 @@ to provide users with the ability to vary the size of each hexagon
 in hexagonal heatmaps created with ggplot2.
 
 # ggtreebar
+
+[![CRAN](https://www.r-pkg.org/badges/version/ggtreebar)](https://cran.r-project.org/package=ggtreebar)
+![GitHub](https://img.shields.io/github/stars/hrryt/ggtreebar)
 
 ![ggtreebar](https://github.com/hrryt/ggtreebar/raw/main/man/figures/README-banner.png)
 
@@ -35,6 +44,9 @@ within each bar segment.
 
 # gggradient
 
+[![CRAN](https://www.r-pkg.org/badges/version/gggradient)](https://cran.r-project.org/package=gggradient)
+![GitHub](https://img.shields.io/github/stars/hrryt/gggradient)
+
 ![gggradient](https://github.com/hrryt/gggradient/raw/master/man/figures/README-work.png)
 
 The goal of [gggradient](https://hrryt.github.io/gggradient) is to leverage
@@ -42,6 +54,9 @@ the power of ggplot2 scale syntax to interface with the flexibility of
 `grid::linearGradient()` patterns.
 
 # scenesetr
+
+[![CRAN](https://www.r-pkg.org/badges/version/scenesetr)](https://cran.r-project.org/package=scenesetr)
+![GitHub](https://img.shields.io/github/stars/hrryt/scenesetr)
 
 ![scenesetr](https://github.com/hrryt/scenesetr/raw/master/man/figures/README-greenland.gif)
 
