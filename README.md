@@ -8,7 +8,7 @@ Hi, I'm Harry! Check out some of my R packages:
 
 [![CRAN](https://www.r-pkg.org/badges/version/gglinedensity)](https://cran.r-project.org/package=gglinedensity)
 [![CRAN: Task View](https://img.shields.io/badge/CRAN-Task%20View-purple)](https://cran.r-project.org/web/views/TimeSeries.html)
-[![Documentation](https://shields.io/badge/docs-/gglinedensity-blue)](https://hrryt.github.io/gglinedensity)
+[![Documentation](https://shields.io/badge/docs-/gglinedensity/-blue)](https://hrryt.github.io/gglinedensity/)
 [![GitHub](https://img.shields.io/github/stars/hrryt/gglinedensity)](https://github.com/hrryt/gglinedensity)
 
 ![gglinedensity](https://raw.githubusercontent.com/hrryt/gglinedensity/refs/heads/main/man/figures/README-nyse.png)
@@ -23,7 +23,7 @@ identify anomalous extrema” ([Moritz and Fisher,
 # gghexsize
 
 [![CRAN](https://www.r-pkg.org/badges/version/gghexsize)](https://cran.r-project.org/package=gghexsize)
-[![Documentation](https://shields.io/badge/docs-/gghexsize-blue)](https://hrryt.github.io/gghexsize)
+[![Documentation](https://shields.io/badge/docs-/gghexsize/-blue)](https://hrryt.github.io/gghexsize/)
 [![GitHub](https://img.shields.io/github/stars/hrryt/gghexsize)](https://github.com/hrryt/gghexsize)
 
 ![gghexsize](https://raw.githubusercontent.com/hrryt/gghexsize/master/man/figures/README-unnamed-chunk-3-1.png)
@@ -35,7 +35,7 @@ in hexagonal heatmaps created with ggplot2.
 # ggtreebar
 
 [![CRAN](https://www.r-pkg.org/badges/version/ggtreebar)](https://cran.r-project.org/package=ggtreebar)
-[![Documentation](https://shields.io/badge/docs-/ggtreebar-blue)](https://hrryt.github.io/ggtreebar)
+[![Documentation](https://shields.io/badge/docs-/ggtreebar/-blue)](https://hrryt.github.io/ggtreebar/)
 [![GitHub](https://img.shields.io/github/stars/hrryt/ggtreebar)](https://github.com/hrryt/ggtreebar)
 
 ![ggtreebar](https://github.com/hrryt/ggtreebar/raw/main/man/figures/README-banner.png)
@@ -48,7 +48,7 @@ within each bar segment.
 # gggradient
 
 [![CRAN](https://www.r-pkg.org/badges/version/gggradient)](https://cran.r-project.org/package=gggradient)
-[![Documentation](https://shields.io/badge/docs-/gggradient-blue)](https://hrryt.github.io/gggradient)
+[![Documentation](https://shields.io/badge/docs-/gggradient/-blue)](https://hrryt.github.io/gggradient/)
 [![GitHub](https://img.shields.io/github/stars/hrryt/gggradient)](https://github.com/hrryt/gggradient)
 
 ![gggradient](https://github.com/hrryt/gggradient/raw/master/man/figures/README-work.png)
@@ -60,7 +60,6 @@ the power of ggplot2 scale syntax to interface with the flexibility of
 # scenesetr
 
 [![CRAN](https://www.r-pkg.org/badges/version/scenesetr)](https://cran.r-project.org/package=scenesetr)
-[![Documentation](https://shields.io/badge/docs-/scenesetr-blue)](https://hrryt.github.io/scenesetr)
 [![GitHub](https://img.shields.io/github/stars/hrryt/scenesetr)](https://github.com/hrryt/scenesetr)
 
 ![scenesetr](https://github.com/hrryt/scenesetr/raw/master/man/figures/README-greenland.gif)
