@@ -64,7 +64,7 @@ the power of ggplot2 scale syntax to interface with the flexibility of
 
 ![scenesetr](https://github.com/hrryt/scenesetr/raw/master/man/figures/README-greenland.gif)
 
-The goal of [scenesetr](https://hrryt.github.io/scenesetr) is to allow
+The goal of [scenesetr](https://github.com/hrryt/scenesetr) is to allow
 R users to interactively explore and animate custom 3-D scenes.
 scenesetr provides intuitive tools to define behaviors of lights, cameras
 and objects in response to key inputs and each other, and to record scenes
