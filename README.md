@@ -71,3 +71,7 @@ and objects in response to key inputs and each other, and to record scenes
 as they pan out in real time. Save recordings to PNG or GIF.
 
 Scene objects can be read from .obj files and stars raster objects.
+
+# See more
+
+Over a dozen R packages avaialable at my GitHub page: https://github.com/hrryt
