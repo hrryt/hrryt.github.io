@@ -57,6 +57,16 @@ The goal of [gggradient](https://hrryt.github.io/gggradient) is to leverage
 the power of ggplot2 scale syntax to interface with the flexibility of
 `grid::linearGradient()` patterns.
 
+## ggpile
+
+[![CRAN](https://www.r-pkg.org/badges/version/ggpile)](https://cran.r-project.org/package=ggpile)
+[![Documentation](https://shields.io/badge/docs-/ggpile/-blue)](https://hrryt.github.io/ggpile/)
+[![GitHub](https://img.shields.io/github/stars/hrryt/ggpile)](https://github.com/hrryt/ggpile)
+
+![ggpile](https://raw.githubusercontent.com/hrryt/ggpile/refs/heads/main/man/figures/README-example-1.png)
+
+The goal of [ggpile](https://github.com/hrryt/ggpile) is to make piled bar charts easy with ggplot2.
+
 # scenesetr
 
 [![CRAN](https://www.r-pkg.org/badges/version/scenesetr)](https://cran.r-project.org/package=scenesetr)
@@ -74,4 +84,4 @@ Scene objects can be read from .obj files and stars raster objects.
 
 # See more
 
-Over a dozen R packages avaialable at my GitHub page: https://github.com/hrryt
+Over a dozen R packages avaialable on my GitHub page: [github.com/hrryt](https://github.com/hrryt)
